@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/my_web_server.dir/main.cpp.o -o my_web_server  /usr/lib/aarch64-linux-gnu/libsqlite3.so 
