@@ -29,7 +29,13 @@
   * 그 외 : MacOs, UTM(가상머신) Ubuntu Linux
 --------------------------------
 
+ ## 1. 앱
 
+
+<p align="center" />
+    <img src="https://github.com/jjm-web/intellian_Project/assets/76840242/86c1d64c-de61-4fba-8bb0-354f03fa6db9"/>
+    
+</p> 
 
 
 ----------------------------------------
