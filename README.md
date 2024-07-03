@@ -41,14 +41,14 @@
 
 
 <p align="center" />
-    <img src="github.com/jjm-web/intellian_Project/assets/76840242/774d876a-0c8e-4465-b114-9409d1c79560"/>
+    <img src="https://github.com/jjm-web/intellian_Project/assets/76840242/108e4f3f-be90-4d9f-b94c-57f5d40a188e"/>
 </p> 
 
-## 2. 서버 -> 웹
+## 3. 서버 -> 웹
 
 
 <p align="center" />
-    <img src="https://github.com/jjm-web/intellian_Project/assets/76840242/108e4f3f-be90-4d9f-b94c-57f5d40a188e"/>
+    <img src="github.com/jjm-web/intellian_Project/assets/76840242/e9c42886-a135-4660-b8d8-da722c23971b"/>
 </p> 
 
 
