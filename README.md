@@ -29,29 +29,6 @@
   * 그 외 : MacOs, UTM(가상머신) Ubuntu Linux
 --------------------------------
 
- ## 1. 앱
-
-
-<p align="center" />
-    <img src="https://user-images.githubusercontent.com/76840242/210713216-7152f2e8-9b42-4e69-974f-5a244a1f6b91.gif"/>
-    
-</p> 
-
-## 2. 서버
-
-
-<p align="center" />
-    <img src="https://user-images.githubusercontent.com/76840242/210714254-9d945606-bb88-499a-9453-1776c8b46be0.gif"/>
-</p> 
-
-
-## 3. 웹
-
-
-<p align="center" />
-    <img src="https://user-images.githubusercontent.com/76840242/210716830-7780653a-7424-41a4-b6d4-fda10b0578cb.gif"/>
-</p> 
-
 
 
 
