@@ -1,7 +1,5 @@
 # intellian_App
 
-# ExodusEnt
-
 * 안녕하세요 __인텔리안테크놀로지 프로젝트__ 입니다.   
 * __Flutter App, C++ Server, 웹 모니터__ 등을 만들었습니다.
 
